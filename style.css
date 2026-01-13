@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    border: 70px solid green;
+}
+
+ul{
+    background-color: black;
+    color: white important!;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+a{
+    color: white;
+}
+.nav-item{
+    color: white;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin: 100px;
+    
+}
+.card1{
+    margin-top: 40px;
+    margin-left: 30%;
+}
+.card{
+    margin: 80px;
+}
